@@ -8,9 +8,9 @@ RobloxMulti can create a second local copy of the Roblox app, hold the app's sin
 
 ## Screenshots
 
-![RobloxMulti window](assets/robloxmulti-window.png)
+![RobloxMulti window](robloxmulti-window.png)
 
-![RobloxMulti starting in Command Prompt](assets/robloxmulti-startup.png)
+![RobloxMulti starting in Command Prompt](robloxmulti-startup.png)
 
 ## Requirements
 
